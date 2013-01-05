@@ -1,5 +1,5 @@
 ---
-title: Secession: Are We Free To Go?
+title: Secession&#58; Are We Free To Go?
 author: Ron Paul
 date: November 19, 2012
 ---

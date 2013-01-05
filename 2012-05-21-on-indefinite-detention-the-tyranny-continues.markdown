@@ -1,5 +1,5 @@
 ---
-title: On Indefinite Detention: The Tyranny Continues
+title: On Indefinite Detention&#58; The Tyranny Continues
 author: Ron Paul
 date: May 21, 2012
 ---

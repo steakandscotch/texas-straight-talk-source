@@ -1,5 +1,5 @@
 ---
-title: The Fed: Mend It or End It?
+title: The Fed&#58; Mend It or End It?
 author: Ron Paul
 date: May 14, 2012
 ---
