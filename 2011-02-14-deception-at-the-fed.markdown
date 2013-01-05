@@ -2,6 +2,8 @@
 title: Deception at the Fed
 author: Ron Paul
 date: February 14, 2011
+
+layout: default
 ---
 
 For the past three decades, the Federal Reserve has been given a dual

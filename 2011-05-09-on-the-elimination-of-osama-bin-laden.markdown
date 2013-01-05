@@ -2,6 +2,8 @@
 title: On the Elimination of Osama bin Laden
 author: Ron Paul
 date: May 9, 2011
+
+layout: default
 ---
 
 Last week marked an important milestone in the war on terrorism for our

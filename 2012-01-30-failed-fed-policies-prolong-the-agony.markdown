@@ -2,6 +2,8 @@
 title: Failed Fed Policies Prolong the Agony
 author: Ron Paul
 date: January 30, 2012
+
+layout: default
 ---
 
 The Federal Reserve's interest rate price-setting board, the FOMC, met

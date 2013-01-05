@@ -2,6 +2,8 @@
 title: Let the Housing Market Clear!
 author: Ron Paul
 date: October 29, 2012
+
+layout: default
 ---
 
 French businessman and economist [Jean-Baptiste Say](http://j.mp/U4bFub) is

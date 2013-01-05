@@ -2,6 +2,8 @@
 title: The Ultimate Consumer Protection
 author: Ron Paul
 date: January 9, 2012
+
+layout: default
 ---
 
 This week, partisan games in Washington reached a fevered pitch as

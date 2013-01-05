@@ -2,6 +2,8 @@
 title: Government Security is Just Another Kind of Violence
 author: Ron Paul
 date: December 24, 2012
+
+layout: default
 ---
 
 The senseless and horrific killings last week in Newtown, Connecticut reminded

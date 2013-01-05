@@ -2,6 +2,8 @@
 title: No-Fly Won't Fly Constitutionally
 author: Ron Paul
 date: March 14, 2011
+
+layout: default
 ---
 
 Last week we once again heard numerous voices calling for intervention

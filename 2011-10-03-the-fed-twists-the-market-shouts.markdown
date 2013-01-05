@@ -2,6 +2,8 @@
 title: The Fed Twists, The Market Shouts
 author: Ron Paul
 date: October 3, 2011
+
+layout: default
 ---
 
 Last week the Federal Reserve began the second incarnation of

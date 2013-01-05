@@ -2,6 +2,8 @@
 title: Our 30 Year Mistake
 author: Ron Paul
 date: February 7, 2011
+
+layout: default
 ---
 
 The events in Egypt of late have captured the attention of the world,

@@ -2,6 +2,8 @@
 title: In Praise of Private Charity
 author: Ron Paul
 date: April 9, 2012
+
+layout: default
 ---
 
 One of the great fallacies of our time is that if government doesn't do

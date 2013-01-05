@@ -2,6 +2,8 @@
 title: Waking Up to Economic Realities
 author: Ron Paul
 date: April 25, 2011
+
+layout: default
 ---
 
 Last week the financial markets were roiled by Standard & Poor’s

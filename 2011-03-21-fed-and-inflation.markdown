@@ -2,6 +2,8 @@
 title: Fed and Inflation
 author: Ron Paul
 date: March 21, 2011
+
+layout: default
 ---
 
 Last week, the subcommittee which I chair held a hearing on monetary

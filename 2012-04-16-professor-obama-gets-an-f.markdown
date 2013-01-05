@@ -2,6 +2,8 @@
 title: Professor Obama Gets an F
 author: Ron Paul
 date: April 16, 2012
+
+layout: default
 ---
 
 Last week President Obama made some rather shocking comments at a press

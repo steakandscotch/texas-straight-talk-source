@@ -2,6 +2,8 @@
 title: Inflation is a Monetary Phenomenon
 author: Ron Paul
 date: July 16, 2012
+
+layout: default
 ---
 
 Later this month Congress will have an unprecedented opportunity to

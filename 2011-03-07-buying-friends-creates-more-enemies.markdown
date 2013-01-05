@@ -2,6 +2,8 @@
 title: Buying Friends Creates More Enemies
 author: Ron Paul
 date: March 7, 2011
+
+layout: default
 ---
 
 Last week Secretary of State Hillary Clinton testified before the House

@@ -2,6 +2,8 @@
 title: Consequences of an Interventionist Foreign Policy
 author: Ron Paul
 date: September 17, 2012
+
+layout: default
 ---
 
 The attack on the US consulate in Libya and the killing of the US

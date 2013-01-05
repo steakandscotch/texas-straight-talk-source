@@ -2,6 +2,8 @@
 title: Meaningless Words in Politics
 author: Ron Paul
 date: August 27, 2012
+
+layout: default
 ---
 
 As we enter the fall political season, we will hear a great deal of

@@ -2,6 +2,8 @@
 title: How Should Government Treat Energy Producers?
 author: Ron Paul
 date: June 27, 2011
+
+layout: default
 ---
 
 As the economy continues in its downward spiral and talks in Congress

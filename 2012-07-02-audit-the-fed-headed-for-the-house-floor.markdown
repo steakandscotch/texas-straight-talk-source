@@ -2,6 +2,8 @@
 title: Audit the Fed Headed for the House Floor!
 author: Ron Paul
 date: July 2, 2012
+
+layout: default
 ---
 
 Last week supporters of Federal Reserve transparency had a major victory

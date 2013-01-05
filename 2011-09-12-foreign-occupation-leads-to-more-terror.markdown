@@ -2,6 +2,8 @@
 title: Foreign Occupation Leads to More Terror
 author: Ron Paul
 date: September 12, 2011
+
+layout: default
 ---
 
 Ten years ago shocking and horrific acts of terrorism were carried out

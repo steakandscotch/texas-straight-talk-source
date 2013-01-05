@@ -2,6 +2,8 @@
 title: Recipe for a Successful 2011
 author: Ron Paul
 date: January 4, 2011
+
+layout: default
 ---
 
 The year 2011 brings in a host of opportunities and challenges to

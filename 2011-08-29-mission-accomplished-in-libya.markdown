@@ -2,6 +2,8 @@
 title: Mission Accomplished in Libya?
 author: Ron Paul
 date: August 29, 2011
+
+layout: default
 ---
 
 Even as a major hurricane hit America's eastern seaboard, the

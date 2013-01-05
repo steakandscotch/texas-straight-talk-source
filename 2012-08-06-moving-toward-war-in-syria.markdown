@@ -2,6 +2,8 @@
 title: Moving toward War in Syria
 author: Ron Paul
 date: August 6, 2012
+
+layout: default
 ---
 
 Last week the House passed yet another bill placing sanctions on Iran

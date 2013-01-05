@@ -2,6 +2,8 @@
 title: No Mandatory Mental Health Screening for Children!
 author: Ron Paul
 date: December 12, 2011
+
+layout: default
 ---
 
 Maryanne Godboldo, a mother in Michigan, noticed that pills prescribed

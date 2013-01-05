@@ -2,6 +2,8 @@
 title: War Drums for Syria?
 author: Ron Paul
 date: June 4, 2012
+
+layout: default
 ---
 
 War drums are beating again in Washington. This time Syria is in the

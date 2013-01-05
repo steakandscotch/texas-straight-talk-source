@@ -2,6 +2,8 @@
 title: The Pesky Neighbor and the Debt Ceiling
 author: Ron Paul
 date: July 25, 2011
+
+layout: default
 ---
 
 Imagine you had a pesky neighbor who somehow took out a mortgage on his

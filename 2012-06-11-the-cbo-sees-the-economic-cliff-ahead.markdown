@@ -2,6 +2,8 @@
 title: The CBO Sees the Economic Cliff Ahead
 author: Ron Paul
 date: June 11, 2012
+
+layout: default
 ---
 
 

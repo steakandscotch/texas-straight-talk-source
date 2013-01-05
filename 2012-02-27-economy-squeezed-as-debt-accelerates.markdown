@@ -2,6 +2,8 @@
 title: Economy Squeezed As Debt Accelerates
 author: Ron Paul
 date: February 27, 2012
+
+layout: default
 ---
 
 Senator Jeff Sessions, ranking member of the Senate Budget Committee has

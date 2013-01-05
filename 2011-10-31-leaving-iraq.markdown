@@ -2,6 +2,8 @@
 title: Leaving Iraq?
 author: Ron Paul
 date: October 31, 2011
+
+layout: default
 ---
 
 It is not too often I am pleased by the foreign policy announcements

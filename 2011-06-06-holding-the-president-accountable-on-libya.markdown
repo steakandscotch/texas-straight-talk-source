@@ -2,6 +2,8 @@
 title: Holding the President Accountable on Libya
 author: Ron Paul
 date: June 6, 2011
+
+layout: default
 ---
 
 Last week, more than 70 days after President Obama sent our military to

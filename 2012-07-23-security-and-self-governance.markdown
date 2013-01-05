@@ -2,6 +2,8 @@
 title: Security and Self-Governance
 author: Ron Paul
 date: July 23, 2012
+
+layout: default
 ---
 
 The senseless and horrific killings last week at a movie theater in

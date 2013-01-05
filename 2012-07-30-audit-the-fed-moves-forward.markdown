@@ -2,6 +2,8 @@
 title: Audit the Fed Moves Forward!
 author: Ron Paul
 date: July 30, 2012
+
+layout: default
 ---
 
 Last week the House of Representatives overwhelmingly passed my

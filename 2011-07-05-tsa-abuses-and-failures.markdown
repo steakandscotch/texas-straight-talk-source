@@ -2,6 +2,8 @@
 title: TSA Abuses and Failures
 author: Ron Paul
 date: July 5, 2011
+
+layout: default
 ---
 
 The press reports are horrifying: 95 year-old women humiliated;

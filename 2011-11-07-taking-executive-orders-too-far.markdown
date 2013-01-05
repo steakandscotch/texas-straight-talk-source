@@ -2,6 +2,8 @@
 title: Taking Executive Orders Too Far
 author: Ron Paul
 date: November 7, 2011
+
+layout: default
 ---
 
 These are frustrating times for the President. Having been swept into

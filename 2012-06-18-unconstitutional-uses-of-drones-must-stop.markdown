@@ -2,6 +2,8 @@
 title: Unconstitutional Uses of Drones Must Stop
 author: Ron Paul
 date: June 18, 2012
+
+layout: default
 ---
 
 Last week I joined several of my colleagues in sending a letter to

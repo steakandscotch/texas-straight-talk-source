@@ -2,6 +2,8 @@
 title: Headed Toward the 11th Hour Compromise
 author: Ron Paul
 date: December 3, 2012
+
+layout: default
 ---
 
 

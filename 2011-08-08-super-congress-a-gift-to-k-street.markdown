@@ -2,6 +2,8 @@
 title: Super Congress A Gift to K Street
 author: Ron Paul
 date: August 8, 2011
+
+layout: default
 ---
 
 The Super Congress created by the recent debt ceiling increase deal is

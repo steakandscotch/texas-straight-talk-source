@@ -2,6 +2,8 @@
 title: Toward Sensible Monetary Policy
 author: Ron Paul
 date: January 10, 2011
+
+layout: default
 ---
 
 Last week the 112th Congress was sworn in.  I am pleased that I will be

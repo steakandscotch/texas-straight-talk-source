@@ -2,6 +2,8 @@
 title: The Latest Obamacare Overreach
 author: Ron Paul
 date: February 13, 2012
+
+layout: default
 ---
 
 Many religious conservatives understandably are upset with the latest

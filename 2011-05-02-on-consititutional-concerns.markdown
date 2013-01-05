@@ -2,6 +2,8 @@
 title: On Constitutional Concerns
 author: Ron Paul
 date: May 2, 2011
+
+layout: default
 ---
 
 Last week the media focused on President Obama's basic eligibility to

@@ -2,6 +2,8 @@
 title: Government is Already Too Involved in Healthcare
 author: Ron Paul
 date: June 25, 2012
+
+layout: default
 ---
 
 This week the Supreme Court is expected to issue its long-awaited

@@ -2,6 +2,8 @@
 title: A Fistful of Euros
 author: Ron Paul
 date: March 26, 2012
+
+layout: default
 ---
 
 This week, my congressional committee will hold a hearing to examine how the

@@ -2,6 +2,8 @@
 title: A Dangerous Precedent
 author: Ron Paul
 date: October 10, 2011
+
+layout: default
 ---
 
 According to the Fifth Amendment of the US Constitution, Americans are

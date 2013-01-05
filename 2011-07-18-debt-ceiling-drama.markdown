@@ -2,6 +2,8 @@
 title: Debt Ceiling Drama
 author: Ron Paul
 date: July 18, 2011
+
+layout: default
 ---
 
 The debt ceiling debate is providing plenty of opportunity for

@@ -2,6 +2,8 @@
 title: The Costs of War
 author: Ron Paul
 date: April 30, 2012
+
+layout: default
 ---
 
 This month Veterans Affairs Secretary Eric K. Shinseki announced the

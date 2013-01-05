@@ -2,6 +2,8 @@
 title: How Long Will the Dollar Remain the World's Reserve Currency?
 author: Ron Paul
 date: September 3, 2012
+
+layout: default
 ---
 
 We frequently hear the financial press refer to the U.S. dollar as the

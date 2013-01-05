@@ -2,6 +2,8 @@
 title: A Palestinian State?
 author: Ron Paul
 date: September 26, 2011
+
+layout: default
 ---
 
 The Palestinian Authority's recent announcement that it would seek UN

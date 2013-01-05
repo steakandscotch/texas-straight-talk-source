@@ -2,6 +2,8 @@
 title: S&P States the Obvious
 author: Ron Paul
 date: August 15, 2011
+
+layout: default
 ---
 
 Politicians did not get much time to pat themselves on the back for

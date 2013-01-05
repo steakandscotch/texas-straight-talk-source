@@ -2,6 +2,8 @@
 title: The Keys to Economic Growth
 author: Ron Paul
 date: June 13, 2011
+
+layout: default
 ---
 
 Recent economic data show that U.S. job growth in May was negligible,

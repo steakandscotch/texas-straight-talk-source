@@ -2,6 +2,8 @@
 title: Capital Controls Have No Place in a Free Society
 author: Ron Paul
 date: May 29, 2012
+
+layout: default
 ---
 
 The characteristic mark of a tyrannical regime is that it eventually

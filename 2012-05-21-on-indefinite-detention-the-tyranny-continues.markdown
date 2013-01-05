@@ -2,6 +2,8 @@
 title: On Indefinite Detention&#58; The Tyranny Continues
 author: Ron Paul
 date: May 21, 2012
+
+layout: default
 ---
 
 The bad news from last week's passage of the 2013 National Defense

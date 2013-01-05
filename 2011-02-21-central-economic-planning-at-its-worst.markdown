@@ -2,6 +2,8 @@
 title: Central Economic Planning at its Worst
 author: Ron Paul
 date: February 21, 2011
+
+layout: default
 ---
 
 Last week, the Financial Crisis Inquiry Commission (FCIC) presented its

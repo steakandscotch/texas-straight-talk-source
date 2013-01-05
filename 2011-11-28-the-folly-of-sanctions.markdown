@@ -2,6 +2,8 @@
 title: The Folly of Sanctions
 author: Ron Paul
 date: November 28, 2011
+
+layout: default
 ---
 
 Many people have the misconception that sanctions are an effective means

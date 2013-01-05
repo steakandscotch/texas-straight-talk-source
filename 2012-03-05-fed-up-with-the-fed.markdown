@@ -2,6 +2,8 @@
 title: Fed Up with the Fed
 author: Ron Paul
 date: March 5, 2012
+
+layout: default
 ---
 
 While the Fed has recently released an unprecedented amount of

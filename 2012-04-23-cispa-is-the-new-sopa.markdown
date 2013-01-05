@@ -2,6 +2,8 @@
 title: CISPA is the New SOPA
 author: Ron Paul
 date: April 23, 2012
+
+layout: default
 ---
 
 Earlier this year, strong public opposition led by several prominent

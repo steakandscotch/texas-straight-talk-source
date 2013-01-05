@@ -2,6 +2,8 @@
 title: Keeping Up Statistical Appearances
 author: Ron Paul
 date: October 15, 2012
+
+layout: default
 ---
 
 Last week, supporters of the current administration rejoiced over job

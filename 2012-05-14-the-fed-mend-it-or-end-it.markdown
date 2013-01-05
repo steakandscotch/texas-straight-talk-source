@@ -2,6 +2,8 @@
 title: The Fed&#58; Mend It or End It?
 author: Ron Paul
 date: May 14, 2012
+
+layout: default
 ---
 
 Last week I held a hearing to examine the various proposals that have

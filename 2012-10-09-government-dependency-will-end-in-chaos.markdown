@@ -2,6 +2,8 @@
 title: Government Dependency Will End in Chaos
 author: Ron Paul
 date: October 9, 2012
+
+layout: default
 ---
 
 The media insists on characterizing statements about dependency on

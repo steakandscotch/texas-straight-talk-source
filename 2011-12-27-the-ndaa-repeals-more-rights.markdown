@@ -2,6 +2,8 @@
 title: The NDAA Repeals More Rights
 author: Ron Paul
 date: December 28, 2011
+
+layout: default
 ---
 
 Little by little, in the name of fighting terrorism, our Bill of Rights

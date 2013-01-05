@@ -2,6 +2,8 @@
 title: The Milk Police
 author: Ron Paul
 date: May 16, 2011
+
+layout: default
 ---
 
 On April 20th, after a year-long undercover sting operation, armed

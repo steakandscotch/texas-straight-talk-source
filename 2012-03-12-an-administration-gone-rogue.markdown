@@ -2,6 +2,8 @@
 title: An Administration Gone Rogue
 author: Ron Paul
 date: March 12, 2012
+
+layout: default
 ---
 
 Have certain parts of the Constitution become irrelevant, as a former

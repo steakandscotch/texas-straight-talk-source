@@ -2,6 +2,8 @@
 title: How to End the Tragedy in Gaza
 author: Ron Paul
 date: November 26, 2012
+
+layout: default
 ---
 
 As of late Friday the ceasefire in Gaza seems to be holding, if tentatively. While we should be pleased that this round of fighting appears temporarily on hold, we must realize that without changes in US foreign policy it is only a matter of time before the killing begins again. 

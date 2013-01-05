@@ -2,6 +2,8 @@
 title: Right to Work is Part of Economic Liberty
 author: Ron Paul
 date: December 17, 2012
+
+layout: default
 ---
 
 Many observers were surprised when Michigan, historically a stronghold of union

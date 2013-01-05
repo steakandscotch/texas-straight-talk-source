@@ -2,6 +2,8 @@
 title: Interest Rates Are Prices
 author: Ron Paul
 date: September 24, 2012
+
+layout: default
 ---
 
 One of the most enduring myths in the United States is that this country

@@ -2,6 +2,8 @@
 title: Trust Us; We're the Government
 author: Ron Paul
 date: February 6, 2012
+
+layout: default
 ---
 
 While much has been made recently of the President's unconstitutional

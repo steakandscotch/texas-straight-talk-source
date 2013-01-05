@@ -2,6 +2,8 @@
 title: The Business of Government
 author: Ron Paul
 date: October 17, 2011
+
+layout: default
 ---
 
 Amid the din of economic nonsense being bandied about since the

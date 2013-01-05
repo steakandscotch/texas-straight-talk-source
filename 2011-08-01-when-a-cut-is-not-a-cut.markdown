@@ -2,6 +2,8 @@
 title: When a Cut is Not a Cut
 author: Ron Paul
 date: August 8, 2011
+
+layout: default
 ---
 
 One might think that the recent drama over the debt ceiling involves

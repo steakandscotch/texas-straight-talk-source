@@ -2,6 +2,8 @@
 title: The Supreme Court and Obamacare
 author: Ron Paul
 date: April 2, 2012
+
+layout: default
 ---
 
 Last week the Supreme Court heard arguments concerning the constitutionality of

@@ -2,6 +2,8 @@
 title: Debt Burden Threatens American Families
 author: Ron Paul
 date: January 2, 2012
+
+layout: default
 ---
 
 Last week, as most Americans were celebrating the holidays with family

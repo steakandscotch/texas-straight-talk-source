@@ -2,6 +2,8 @@
 title: Gold is Good Money
 author: Ron Paul
 date: October 1, 2012
+
+layout: default
 ---
 
 Last year the Chairman of the Federal Reserve told me that [gold is not

@@ -2,6 +2,8 @@
 title: The Fed Undermines Foreign Policy
 author: Ron Paul
 date: April 4, 2011
+
+layout: default
 ---
 
 Last week I was both surprised and pleased when the Supreme Court

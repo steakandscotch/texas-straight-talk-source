@@ -2,6 +2,8 @@
 title: EPA Abuses
 author: Ron Paul
 date: January 16, 2012
+
+layout: default
 ---
 
 Last week the Supreme Court heard arguments in Sackett v. EPA, a case of

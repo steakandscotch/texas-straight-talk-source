@@ -2,6 +2,8 @@
 title: Legalize Competing Currencies
 author: Ron Paul
 date: August 13, 2012
+
+layout: default
 ---
 
 I recently held a hearing in my congressional subcommittee on the

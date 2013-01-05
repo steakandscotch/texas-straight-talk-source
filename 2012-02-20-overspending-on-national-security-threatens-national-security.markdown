@@ -2,6 +2,8 @@
 title: Overspending on National Security Threatens National Security
 author: Ron Paul
 date: February 20, 2012
+
+layout: default
 ---
 
 The administration recently released its 2013 budget proposal, and

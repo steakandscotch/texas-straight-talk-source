@@ -2,6 +2,8 @@
 title: Euro Crisis Destabilizing the Dollar
 author: Ron Paul
 date: December 5, 2011
+
+layout: default
 ---
 
 In response to pressure from Wall Street, the White House and central

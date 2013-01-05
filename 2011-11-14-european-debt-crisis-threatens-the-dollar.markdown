@@ -2,6 +2,8 @@
 title: European Debt Crisis Threatens the Dollar
 author: Ron Paul
 date: November 14, 2011
+
+layout: default
 ---
 
 The global economic situation is becoming more dire every day.

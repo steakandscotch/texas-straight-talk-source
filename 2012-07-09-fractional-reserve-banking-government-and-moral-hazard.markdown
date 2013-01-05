@@ -2,6 +2,8 @@
 title: Fractional Reserve Banking, Government, and Moral Hazard
 author: Ron Paul
 date: July 9, 2012
+
+layout: default
 ---
 
 Last week my subcommittee held a hearing on fractional reserve banking

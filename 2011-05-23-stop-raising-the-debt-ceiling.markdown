@@ -2,6 +2,8 @@
 title: Stop Raising the Debt Ceiling
 author: Ron Paul
 date: May 23, 2011
+
+layout: default
 ---
 
 The federal government once again has reached the limit of its legal

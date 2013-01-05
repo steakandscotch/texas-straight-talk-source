@@ -2,6 +2,8 @@
 title: Constitutional Problems with the Libyan War
 author: Ron Paul
 date: March 28, 2011
+
+layout: default
 ---
 
 Last week the Obama Administration took the United States to war

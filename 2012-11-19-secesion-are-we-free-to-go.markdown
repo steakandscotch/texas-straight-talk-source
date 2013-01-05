@@ -2,6 +2,8 @@
 title: Secession&#58; Are We Free To Go?
 author: Ron Paul
 date: November 19, 2012
+
+layout: default
 ---
 
 Is all the recent talk of secession mere sour grapes over the election,

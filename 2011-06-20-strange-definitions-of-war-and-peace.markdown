@@ -2,6 +2,8 @@
 title: Strange Definitions of War and Peace
 author: Ron Paul
 date: June 20, 2011
+
+layout: default
 ---
 
 Last week I joined six Republican and three Democrat colleagues to file

@@ -2,6 +2,8 @@
 title: In Praise of Price Gouging
 author: Ron Paul
 date: November 12, 2012
+
+layout: default
 ---
 
 As the northeastern United States continues to recover from Hurricane

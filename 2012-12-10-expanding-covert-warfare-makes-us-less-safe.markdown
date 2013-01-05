@@ -2,6 +2,8 @@
 title: Expanding Covert Warfare Makes Us Less Safe
 author: Ron Paul 
 date: December 10, 2012
+
+layout: default
 ---
 
 Earlier this month we learned that the Obama Administration is significantly

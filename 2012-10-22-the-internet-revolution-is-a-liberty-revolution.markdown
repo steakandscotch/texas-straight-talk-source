@@ -2,6 +2,8 @@
 title: The Internet Revolution is a Liberty Revolution
 author: Ron Paul
 date: October 22, 2012
+
+layout: default
 ---
 
 Until the late 1990s, individuals interested in Austrian economics, U.S.

@@ -2,6 +2,8 @@
 title: On the Super Committee
 author: Ron Paul
 date: November 21, 2011
+
+layout: default
 ---
 
 This week marks the deadline for the so-called congressional Super

@@ -2,6 +2,8 @@
 title: Demolishing Due Process
 author: Ron Paul
 date: March 19, 2012
+
+layout: default
 ---
 
 It is ironic but perhaps sadly appropriate that Attorney General Eric

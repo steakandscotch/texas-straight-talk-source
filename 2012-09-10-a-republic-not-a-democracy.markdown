@@ -2,6 +2,8 @@
 title: A Republic, Not a Democracy
 author: Ron Paul
 date: September 10, 2012
+
+layout: default
 ---
 
 Last week marked the conclusion of the grand taxpayer funded spectacles

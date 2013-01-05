@@ -2,6 +2,8 @@
 title: We're From the Government. We're Here to Help.
 author: Ron Paul
 date: September 5, 2011
+
+layout: default
 ---
 
 In the wake of hurricane Irene, the Federal Emergency Management Agency

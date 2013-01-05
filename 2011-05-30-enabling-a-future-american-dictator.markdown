@@ -2,6 +2,8 @@
 title: Enabling a Future American Dictator
 author: Ron Paul
 date: May 30, 2011
+
+layout: default
 ---
 
 These are truly troubling days for liberty in the United States.

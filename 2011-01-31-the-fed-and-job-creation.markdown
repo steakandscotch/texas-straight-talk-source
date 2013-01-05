@@ -2,6 +2,8 @@
 title: The Fed and Job Creation
 author: Ron Paul
 date: March 31, 2011
+
+layout: default
 ---
 
 Unemployment continues to plague our economy. In spite of constant

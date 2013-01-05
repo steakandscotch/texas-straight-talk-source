@@ -2,6 +2,8 @@
 title: Congress Must Reject the Welfare/Warfare State
 author: Ron Paul
 date: February 28, 2011
+
+layout: default
 ---
 
 During the past few weeks, Congress has been locked in a battle to pass

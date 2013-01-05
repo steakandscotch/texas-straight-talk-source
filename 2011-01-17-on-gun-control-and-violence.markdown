@@ -2,6 +2,8 @@
 title: On Gun Control and Violence
 author: Ron Paul
 date: January 17, 2011
+
+layout: default
 ---
 
 The terrible violence in Arizona last weekend prompted much national

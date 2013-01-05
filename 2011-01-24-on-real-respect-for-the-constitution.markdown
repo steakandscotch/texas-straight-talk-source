@@ -2,6 +2,8 @@
 title: On Real Respect for the Constitution
 author: Ron Paul
 date: January 24, 2011
+
+layout: default
 ---
 
 I am pleased that the Constitution has received a lot of attention in

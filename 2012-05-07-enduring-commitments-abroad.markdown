@@ -2,6 +2,8 @@
 title: Enduring Commitments Abroad
 author: Ron Paul
 date: May 7, 2012
+
+layout: default
 ---
 
 Last week President Obama made a surprise pre-dawn trip to Afghanistan

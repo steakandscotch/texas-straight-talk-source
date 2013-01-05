@@ -2,6 +2,8 @@
 title: TSA Releases VIPR Venom on Tennessee Highways
 author: Ron Paul
 date: October 24, 2011
+
+layout: default
 ---
 
 If you thought the "Transportation Security Administration" would limit

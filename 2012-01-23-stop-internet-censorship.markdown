@@ -2,6 +2,8 @@
 title: Stop Internet Censorship
 author: Ron Paul
 date: January 23, 2012
+
+layout: default
 ---
 
 Although Congress was back in session for scarcely more than a day last

@@ -2,6 +2,8 @@
 title: The Economics of Disaster
 author: Ron Paul
 date: November 5, 2012
+
+layout: default
 ---
 
 Hurricane Sandy was one of the worst natural disasters the east coast

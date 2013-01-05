@@ -2,6 +2,8 @@
 title: Military "Cuts"&#58; Don't Believe the Hype
 author: Ron Paul
 date: August 20, 2012
+
+layout: default
 ---
 
 Grover Norquist, the influential conservative activist, recently made

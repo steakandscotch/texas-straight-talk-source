@@ -2,6 +2,8 @@
 title: Budget Cuts are Meaningless Without Fed Transparency
 author: Ron Paul
 date: April 18, 2011
+
+layout: default
 ---
 
 Congress focused on issues surrounding government spending this week as

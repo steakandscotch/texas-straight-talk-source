@@ -2,6 +2,8 @@
 title: Government as a Venture Capitalist
 author: Ron Paul
 date: September 19, 2011
+
+layout: default
 ---
 
 In January 2009, the administration claimed that if Congress passed a

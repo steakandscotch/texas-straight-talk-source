@@ -2,6 +2,8 @@
 title: The Nanny State Can't Last
 author: Ron Paul
 date: April 11, 2011
+
+layout: default
 ---
 
 Last week, Congress and the administration refused to seriously

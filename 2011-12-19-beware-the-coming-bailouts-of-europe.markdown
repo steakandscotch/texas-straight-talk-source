@@ -2,6 +2,8 @@
 title: Beware the Coming Bailouts of Europe
 author: Ron Paul
 date: December 19, 2011
+
+layout: default
 ---
 
 The economic establishment in this country has come to the conclusion

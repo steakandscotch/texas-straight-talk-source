@@ -2,6 +2,8 @@
 title: Competing Currencies - a Defense Against Profligate Government Spending
 author: Ron Paul
 date: July 11, 2011
+
+layout: default
 ---
 
 The end of June marked what is hopefully the end of the Federal

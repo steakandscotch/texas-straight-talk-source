@@ -2,6 +2,8 @@
 title: The Illusion of Safety
 author: Ron Paul
 date: August 22, 2011
+
+layout: default
 ---
 
 Recent incidents of violence in Norway and London have made us
