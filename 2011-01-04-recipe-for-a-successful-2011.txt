@@ -1,8 +1,6 @@
 ---
-title:
-author:: Recipe for a Successful 2011
-date:: Ron Paul
----
+title: Recipe for a Successful 2011
+author: Ron Paul
 date: January 4, 2011
 ---
 
