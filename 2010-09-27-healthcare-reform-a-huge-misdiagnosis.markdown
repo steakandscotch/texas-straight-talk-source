@@ -1,5 +1,5 @@
 ---
-title: Healthcare Reform: A Huge Misdiagnosis
+title: Healthcare Reform\: A Huge Misdiagnosis
 author: Ron Paul
 date: September 27, 2010
 layout: page
