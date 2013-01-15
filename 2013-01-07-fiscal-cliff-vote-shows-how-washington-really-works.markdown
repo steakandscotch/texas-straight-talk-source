@@ -1,5 +1,5 @@
 ---
-title: "Fiscal Cliff" Vote Shows How Washington Really Works
+title: Fiscal Cliff Vote Shows How Washington Really Works
 author: Ron Paul
 date: January 7, 2013
 
